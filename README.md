@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EmirBurgosPaz, mechatronics engineer with data analysis formation
-- 👀 I’m interested in modeling 3d and programming
+- 👀 I’m interested in engineering and programming
 - 🌱 I’m currently learning css and html
 
 <!---
