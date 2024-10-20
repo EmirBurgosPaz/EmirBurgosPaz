@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EmirBurgosPaz, mechatronics engineer with data analysis formation
+- 👋 Hi, I’m @EmirBurgosPaz, data analist applied to bussines intelligence
 - 👀 I’m interested in engineering and programming
 - 🌱 I’m currently learning css and html
 
